@@ -10,6 +10,17 @@
       "StackName": "amplify-todogit-dev-105446",
       "StackId": "arn:aws:cloudformation:ap-south-1:759393787549:stack/amplify-todogit-dev-105446/71372e60-03d2-11ec-9261-0a7199861f3e",
       "AmplifyAppId": "d36z51wnbdxfh9"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d36z51wnbdxfh9",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "todogit13303721": {}
+      }
     }
   }
 }
