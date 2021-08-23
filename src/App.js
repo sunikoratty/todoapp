@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       Welcome to Git based Landing page Demo
+       Happy coding
       </header>
     </div>
   );
