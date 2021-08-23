@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <AmplifySignOut />
-       Happy coding
+       Happy coding and Testing
       </header>
     </div>
   );
